@@ -1,0 +1,19 @@
+{
+  "name": "composer_project",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "foundation": "^5.5.3",
+    "jquery": "^3.4.1"
+  }
+}

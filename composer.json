@@ -1,0 +1,14 @@
+{
+    "name": "bmuchira/composer_project",
+    "require": {
+        "phpunit/php-timer": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "smbSpace\\": "src"
+        },
+        "classname": {
+            "PHP_Timer":"src/"
+        }
+    }
+}
