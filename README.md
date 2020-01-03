@@ -1,4 +1,4 @@
-# vuecomponents
+# PHPstorm Composer and Bower
 
 ## Project setup
 ```
